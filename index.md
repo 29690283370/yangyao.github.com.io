@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title></title>
+		<title> 123</title>
 		<link rel="stylesheet" href="css/new_file.css" type="text/css" />
 	</head>
 	<body>
